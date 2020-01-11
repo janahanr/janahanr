@@ -11,9 +11,17 @@ h1{
     
 }
 
-.blurb{
-    color: greenyellow;
+.headertwo img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
 }
+
+.headertwo h2 {
+  position: relative;
+  top: 18px;
+  left: 10px;
 
 .main{
     padding-left: 30vw;
