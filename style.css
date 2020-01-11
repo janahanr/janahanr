@@ -1,5 +1,8 @@
 body,html{
-    background-color:rgb(200, 213, 255);
+    background-image:url(seawaves.jpg);
+    background-size: cover;
+    background-attachement: fixed;
+    
 }
 
 h1{
